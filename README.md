@@ -94,5 +94,3 @@ as `cargo build` to build the project, and `cargo test` to run the tests.
 
 trigger deployment
 BSD-3
-
-test
